@@ -1,0 +1,3 @@
+- verify that path for visual studio in shell.bat is correct location and appropriate version (x64 or x86)
+- nppexec script: cmd.exe /k "c:\GameDev\gamekoo\misc\shell.bat & build & exit"
+- profit
